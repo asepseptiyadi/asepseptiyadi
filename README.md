@@ -17,7 +17,7 @@ I solve problems using the tools available to me. I generally like using JavaScr
 
 - [Membangun Aplikasi Android - Tema Manajemen Keuangan](https://www.youtube.com/playlist?list=PLGuz9_cMP8EGZR2PYc1GYRk3I9X74rH_c)
 
-## Latest [Blog](https://dev.to/aspsptyd) Posts @ dev.to
+## Latest [Posts](https://dev.to/aspsptyd) @ dev.to
 
 - [Kill Server Port Active if React Native Project is Running](https://dev.to/aspsptyd/kill-server-port-active-if-react-native-project-is-running-4hgh)
 - [How to #1 : Creating Dummy API Response for Example Integration to App](https://dev.to/aspsptyd/how-to-1-creating-dummy-api-response-for-example-integration-to-app-48dd)
