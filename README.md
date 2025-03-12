@@ -5,7 +5,7 @@ public struct AboutMe {
     
     let profession = "Software Engineer"
     
-    var preferredTechStack = ["Postman", "XCode", "Android Studio IDE", "Visual Studio IDE", "Docker"]
+    var preferredTechStack = ["Postman", "XCode", "Android Studio IDE", "Visual Studio Code", "Docker"]
     var hasUsed = ["react native", "javascript", "firebase", "sentry", "kotlin/java", "sql", "laravel"]
 }
 ```
